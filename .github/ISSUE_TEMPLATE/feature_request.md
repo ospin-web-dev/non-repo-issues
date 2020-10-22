@@ -29,27 +29,3 @@ You can also take videos of your screen and upload them
 
 **Additional context**
 Add any other context about the feature/change request here
-
-
-
-
-
----
-
-### Deliverables
-As a user...
- - [ ] I can click a button on the process widget which fixes the process widget in front of all other process widgets, but after the 'build process' widget
- - [ ] If multiple process widgets are pinned, they are in createdAt: -1 order
- - [ ] The process widgets have a visual indicator on them to show they are pinned
-
----
-
-### Additional context
-Add any other context or screenshots about the feature request here.
-
----
-
-### Screenshots/Images/Links
-
-![](https://i.pinimg.com/originals/54/3a/f8/543af8d4630d7fb7318da68250599890.jpg)
-
